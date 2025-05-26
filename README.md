@@ -35,7 +35,6 @@
 
 <h2 align="left">👩‍💻 About Me</h2>
 
-###
 <h4 align="left">I'm Novan, an Data Analyst enthusiast who is passionate about turning data into meaningful insights. With a background in accounting, I have skills in SQL, statistics, Excel, and data visualization (Tableau/Power BI)</h4>
 
 ###
@@ -84,6 +83,8 @@
   <img src="https://github-profile-trophy.vercel.app?username=novan1230&theme=juicyfresh&column=-1&row=5&margin-w=10&margin-h=12&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=novan1230&limit=5&theme=neon&combine_all_yearly_contributions=true)
 ###
 
 <img src="https://raw.githubusercontent.com/novan1230/novan1230/output/snake.svg" alt="Snake animation" />
