@@ -21,7 +21,7 @@
 
 ###
 
-<h1 align="center">Hey there. Nice to meet you <img height="50" src="https://github.com/JayantGoel001/JayantGoel001/raw/master/GIF/Hi.gif"  />👋</h1>  
+<h1 align="center">Hey there. Nice to meet you 👋</h1>  
 
 
 ###
