@@ -167,3 +167,14 @@ function generateMotionPath(width, height, delay = 0) {
 }
 
 generatePacmanAnimation();
+
+// Test write to file
+try {
+  fs.writeFileSync(
+    path.join(outputDir, 'pacman-contribution-graph.svg'), 
+    '<svg xmlns="http://www.w3.org/2000/svg"><text x="20" y="20">Test SVG</text></svg>'
+  );
+  console.log('Test write successful!');
+} catch (err) {
+  console.error('Error writing file:', err);
+}
