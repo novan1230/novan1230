@@ -1,4 +1,12 @@
 <div align="center">
+
+  <img height="50" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&width=435&lines=I'm+Novan;Data+Analyst+Enthusiast"  />
+
+</div>
+
+###
+
+<div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
@@ -6,10 +14,12 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/novan-rizki-wicaksono16" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
   </a>
   <a href="mailto:novanrizki1234@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  />
+  <a href="https://github.com/novan1230" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </div>
 
@@ -21,7 +31,7 @@
 
 ###
 
-<h1 align="center">Hey there. Nice to meet you 👋</h1>  
+<h1 align="center">Hey there. Nice to meet you <img height="20" src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://github.com/JayantGoel001/JayantGoel001/raw/master/GIF/Hi.gif)" /> 👋</h1>  
 
 
 ###
@@ -39,8 +49,8 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-</div>
+    <img src="https://custom-icon-badges.demolab.com/badge/Tableau-0176D3?logo=tableau&logoColor=fff" /><img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" />
+    <img src="https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff" /><img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /><img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" /></div>
 
 ###
 
@@ -49,8 +59,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=novan1230&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+<img src="https://custom-icon-badges.demolab.com/badge/Tableau-0176D3?logo=tableau&logoColor=fff" /> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" /><img src="https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff" /><img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /><img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" /></div>
 
 ###
 
