@@ -1,12 +1,4 @@
 <div align="center">
-
-  <img height="50" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&width=435&lines=I'm+Novan;Data+Analyst+Enthusiast"  />
-
-</div>
-
-###
-
-<div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
