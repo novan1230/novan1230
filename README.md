@@ -33,16 +33,9 @@
 
 ###
 
-<h3 align="center">I'm Novan, an Data Analyst enthusiast who is passionate about turning data into meaningful insights. With a background in accounting, I have skills in SQL, statistics, Excel, and data visualization (Tableau/Power BI)</h3>
+<h2 align="left">👩‍💻 About Me</h2>
 
 ###
-
-<h2 align="left">👩‍💻  About Me</h2>
-
-###
-
-<br clear="both">
-
 <h3 align="left">I'm Novan, an Data Analyst enthusiast who is passionate about turning data into meaningful insights. With a background in accounting, I have skills in SQL, statistics, Excel, and data visualization (Tableau/Power BI)</h3>
 
 ###
@@ -50,21 +43,6 @@
 <h2 align="left">🛠 Language and tools</h2>
 
 ###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" height="40" alt="powerbi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" height="40" alt="tableau logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eviews/eviews-original.svg" height="40" alt="eviews logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftexcel/microsoftexcel-original.svg" height="40" alt="microsoftexcel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlesheet/googlesheet-original.svg" height="40" alt="googlesheet logo"  />
-  <img width="12" />
-</div>
 
 <div align="left">
     <img src="https://custom-icon-badges.demolab.com/badge/Tableau-0176D3?logo=tableau&logoColor=fff" />  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" />      <img src="https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff" />  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" /> </div>
