@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img height="160" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
 ###
@@ -33,24 +33,84 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h1 align="center">I'm Novan, an Data Analyst enthusiast who is passionate about turning data into meaningful insights. With a background in accounting, I have skills in SQL, statistics, Excel, and data visualization (Tableau/Power BI)</h1>
 
 ###
 
-<p align="left">I'm Novan, an Data Analyst enthusiast who is passionate about turning data into meaningful insights. With a background in accounting, I have skills in SQL, statistics, Excel, and data visualization (Tableau/Power BI).</p>
+<h2 align="left">👩‍💻  About Me</h2>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<br clear="both">
+
+<h3 align="left">I'm Novan, an Data Analyst enthusiast who is passionate about turning data into meaningful insights. With a background in accounting, I have skills in SQL, statistics, Excel, and data visualization (Tableau/Power BI)</h3>
+
+###
+
+<h2 align="left">🛠 Language and tools</h2>
 
 ###
 
 <div align="left">
-    <img src="https://custom-icon-badges.demolab.com/badge/Tableau-0176D3?logo=tableau&logoColor=fff" />  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" />      <img src="https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff" />  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" /> </div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+</div>
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+</div>
+
+###
+
+<h2 align="left">📊 GitHub Stats</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=novan1230&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=novan1230&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=novan1230&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=novan1230&locale=en&mode=daily&theme=codeSTACKr&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=novan1230&radius=16&theme=elegant&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<h2 align="left">🏆 GitHub Trophies</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=novan1230&theme=juicyfresh&column=-1&row=5&margin-w=10&margin-h=12&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
 ###
 
@@ -63,15 +123,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/novan1230/novan1230/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/novan1230/novan1230/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=novan1230&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=novan1230&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=novan1230&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=novan1230&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=novan1230&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
 
 ###
