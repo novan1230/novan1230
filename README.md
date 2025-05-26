@@ -1,17 +1,27 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="115" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=7000&pause=1000&center=true&vCenter=true&width=435&lines=Hey+there!+Nice+to+meet+you++%F0%9F%91%8B;I'm+Novan+;Data+Analyst+enthusiast"  />
 </div>
 
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/novan-rizki-wicaksono16" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
+  <img height="160" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://linkedin.com/in/novan-rizki-wicaksono16" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=black&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.hackerrank.com/profile/novanrizki1234" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=black&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
   </a>
   <a href="mailto:novanrizki1234@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
   <a href="https://github.com/novan1230" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="25" alt="github logo"/>
   </a>
 </div>
 
@@ -20,11 +30,6 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=novan1230.novan1230&"  />
 </div>
-
-###
-
-<h1 align="center">Hey there. Nice to meet you <img height="20" src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://github.com/JayantGoel001/JayantGoel001/raw/master/GIF/Hi.gif)" /> 👋</h1>  
-
 
 ###
 
