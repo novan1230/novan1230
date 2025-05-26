@@ -1,7 +1,5 @@
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-  <img height="50" src="https://github.com/JayantGoel001/JayantGoel001/raw/master/GIF/Hi.gif"  />
-
 </div>
 
 ###
@@ -23,7 +21,8 @@
 
 ###
 
-<h1 align="center">Hey there. Nice to meet you 👋</h1>
+<h1 align="center">Hey there. Nice to meet you <img height="50" src="https://github.com/JayantGoel001/JayantGoel001/raw/master/GIF/Hi.gif"  />👋</h1>  
+
 
 ###
 
