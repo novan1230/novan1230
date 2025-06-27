@@ -64,8 +64,8 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=novan1230&locale=en&mode=daily&theme=codeSTACKr&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=novan1230&theme=dark)](https://git.io/streak-stats)</div>
 
 ###
 
@@ -85,10 +85,6 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=novan1230&limit=5&theme=neon&combine_all_yearly_contributions=true)
-###
-
-![snake gif](https://github.com/novan1230/novan1230/blob/output/github-snake-dark.svg)
-
 ###
 
 <picture>
