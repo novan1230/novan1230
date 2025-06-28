@@ -20,7 +20,7 @@
   <a href="mailto:novanrizki1234@gmail.com" target="_blank"> 
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
-  <a href="https://github.com/novan1230" target="_blank">
+  <a href="https://github.com/novanrw1611" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="25" alt="github logo"/>
   </a>
 </div>
@@ -28,7 +28,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=novan1230.novan1230&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=novanrw1611.novanrw1611&"  />
 </div>
 
 ###
@@ -51,26 +51,26 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=novan1230&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=novan1230&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=novanrw1611&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=novanrw1611&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=novan1230&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=novanrw1611&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
 </div>
 
 ###
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=novan1230&theme=dark)](https://git.io/streak-stats)</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=novanrw1611&theme=dark)](https://git.io/streak-stats)</div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=novan1230&radius=16&theme=elegant&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=novanrw1611&radius=16&theme=elegant&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
@@ -80,17 +80,17 @@
 ###
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=novan1230&theme=juicyfresh&column=-1&row=5&margin-w=10&margin-h=12&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=novanrw1611&theme=juicyfresh&column=-1&row=5&margin-w=10&margin-h=12&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=novan1230&limit=5&theme=neon&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=novanrw1611&limit=5&theme=neon&combine_all_yearly_contributions=true)
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/novan1230/novan1230/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/novan1230/novan1230/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/novan1230/novan1230/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/novanrw1611/novanrw1611/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/novanrw1611/novanrw1611/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/novanrw1611/novanrw1611/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
